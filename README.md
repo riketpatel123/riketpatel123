@@ -1,16 +1,13 @@
-## Hi there 👋
+- 👋 Hi, I’m @riketpatel123
+- 👩🏻‍💻 I'm a Senior Software Developer
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Flutter and AI
+- 💞️ I’m looking to collaborate on React Project
+- 📫 Portfolio Page: [https://riketpatel.vercel.app/](https://riketpatel.vercel.app/)
 
-<!--
-**riketpatel123/riketpatel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎒 My Skills:
+- Languages: JavaScript (strong), TypeScript, Ruby, Python, HTML, CSS, SQL, SASS
+- Frameworks & Libraries: NodeJS, React, Express, jQuery, Ajax, EJS, AngularJS, Rails, Bootstrap, Axios, Stripe, Next.js, Tailwind
+- Systems & Databases: PostgreSQL, MySQL, MongoDB, Git, Babel, Webpack 
+- Testing: Jest, Mocha, Chai, Storybook, Cypress, RSpec
+- Cloud Technologies & IDES: AZURE, VS Code, Visual Studio
